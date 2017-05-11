@@ -87,6 +87,11 @@ Communication and writing style
 - [24 Pull Requests](http://24pullrequests.com) - Contribute to projects for 24 days leading up to christmas
 - [WebCompat](https://webcompat.com/) - Bug reporting for the internet
 
+## Community
+
+### Management
+-[Curriculum for the Atom Community Manager Apprenticeship project](https://github.com/lee-dohm/community-manager)
+
 
 ## Contribute
 
